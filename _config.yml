@@ -40,9 +40,9 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
-description: "It's an IT blog..."
-keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
+email: zhangyublue@qq.com
+description: "章鱼的私人空间"
+keyword: "zhangyublue,章鱼,前端"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
@@ -62,13 +62,13 @@ wave: true
 
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
+github_username: zhangyublue
+# twitter_username: V_Vincen_
+# instagram_username: v_vincen_
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
 # zhihu_username: WVincen
-weibo_username: WVincen
+# weibo_username: WVincen
 
 
 # Sidebar Settings
@@ -97,18 +97,19 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 ## Friends
 friends: [
     {
-        title: "V_Vincen",
-        href: "https://v-vincen.life/"
-    },{
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Hexo",
-        href: "https://hexo.io/"
-    }
+        title: "github",
+        href: "https://github.com/zhangyublue"
+    },
+    # {
+    #     title: "Bean Tech",
+    #     href: "http://beantech.org"
+    # },{
+    #     title: "Hux Blog",
+    #     href: "http://huangxuan.me"
+    # },{
+    #     title: "Hexo",
+    #     href: "https://hexo.io/"
+    # }
 ]
 
 
