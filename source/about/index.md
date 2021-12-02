@@ -1,6 +1,7 @@
 ---
 layout: "about"
 title: "About"
+pageTitle: "about"
 date: 2016-04-21 04:48:33
 description: "那些年吹过的牛逼，还有很多没有实现"
 header-img: "img/scenery/about_bg.jpg"
@@ -65,11 +66,11 @@ header-img: "img/scenery/about_bg.jpg"
 >
 > Mr.Seven：https://itimetraveler.github.io -->
 
-## Contact me
+<!-- ## Contact me
 
 > Email：601521821@qq.com
 
 ## Treat me to coffee
->  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
+>  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee... -->
 
 <img src="./img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img> -->
