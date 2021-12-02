@@ -16,7 +16,7 @@ header-img: "img/scenery/about_bg.jpg"
 
 
 
-## Just Me
+<!-- ## Just Me
 
 <img src="./img/scenery/about_bg2.jpg" width="350" alt="about_bg2"></img>
 
@@ -49,7 +49,7 @@ header-img: "img/scenery/about_bg.jpg"
 
 ## Follow With Interest Blogs
 
-> Neo Peng：https://zhile.io
+<!-- > Neo Peng：https://zhile.io
 >
 > 李卫民：https://www.funtl.com/zh/guide
 >
@@ -63,7 +63,7 @@ header-img: "img/scenery/about_bg.jpg"
 >
 > KIERAN'S BLOG：https://go.kieran.top
 >
-> Mr.Seven：https://itimetraveler.github.io
+> Mr.Seven：https://itimetraveler.github.io -->
 
 ## Contact me
 
@@ -72,4 +72,4 @@ header-img: "img/scenery/about_bg.jpg"
 ## Treat me to coffee
 >  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
 
-<img src="./img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+<img src="./img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img> -->
