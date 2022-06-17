@@ -9,6 +9,7 @@ tags:
 - Functional Programming
 categories:
 - javascript
+
 ---
 
 # 函数式编程（Functional Programming）
